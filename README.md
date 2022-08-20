@@ -1,24 +1,15 @@
-# ![WebApp](img/landing.png)
+# ![WebApp](img/map.png)
 
-# JPOP Music Player
+# Workout Logger
 
 <table>
 <tr>
 <td>
-    This project is a webapp that plays the top 200 JPOP Songs. This music player can shuffle the playlist, skip to the next song, return to the previous song, and rewind the current song. The song can also be selected through the playlist.
+    This project is a webapp that allows the user to log their previous workouts consisting of either running or cycling. The user is able to 
+    log the distance traveled, duration of workout, speed, and either cadence or elevation depending on their workout choice.
 </td>
 </tr>
 </table>
-
-## Demo
-
-Here is a working live demo : ![vikasreddy.tech/music-player](vikasreddy.tech/music-player)
-
-## Mobile support
-
-The WebApp is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
-
-![](img/mobile.png)
 
 ## Built with
 
